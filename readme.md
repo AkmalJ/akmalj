@@ -1,15 +1,15 @@
-# Run the DAPP locally
-
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
-# Demo online
+## You can see preview here
 
-[Demo](http://113.161.82.243:5555/)
+https://akmalj.netlify.app/
 
-## Change directory to kimkhoathao and install dependency
+## How To Run DAPP locallly
+
+## Change directory to akmalj and install dependency
 
 ```bash
-cd akmalj
+cd akmalj/
 ```
 
 ```bash
@@ -22,10 +22,6 @@ Once you've change a directory and installed dependencies with `npm install` (or
 
 ```bash
 npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
 
 ## Building
 
